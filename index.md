@@ -5,7 +5,7 @@
 ### Deneb Heatmap 
 
 [Deneb Heatmap](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/deneb heatmap.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
