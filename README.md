@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 
+
+I'm Christoph Nieberding, a data design consultant, visual analytics trainer and finance manager working for corporates.
+
+
 
 <!--
 **ChrisNGDES/ChrisNGDES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
